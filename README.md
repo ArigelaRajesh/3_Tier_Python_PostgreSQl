@@ -140,6 +140,34 @@ Once the environment and database are set up, you can run the application with t
 
    The application will start, and you can access it via the specified host and port in your configuration.
 
+## Dashboard:
+![Screenshot (84)](https://github.com/user-attachments/assets/744ac816-7a4f-44db-8f36-03512d402a2b)
+
+### Added Products:
+![Screenshot (85)](https://github.com/user-attachments/assets/a2c472a4-c813-4515-b074-6d405467aa00)
+
+![Screenshot (90)](https://github.com/user-attachments/assets/ee57c28c-fde7-462d-8b2d-1e310207c6dd)
+
+![Screenshot (92)](https://github.com/user-attachments/assets/3342cf57-371b-471b-ad2a-b4263a3322f1)
+
+### Edit Product details:
+![Screenshot (87)](https://github.com/user-attachments/assets/7348d528-e31a-4175-9d73-adcf133a20ce)
+
+![Screenshot (88)](https://github.com/user-attachments/assets/7cc74a26-5bfd-4a4c-970f-f2ddc83235da)
+
+## Database operations:
+### After adding products:
+![Screenshot (86)](https://github.com/user-attachments/assets/47f624af-c2de-4b32-8614-729419a77398)
+
+### updated the product details:
+![Screenshot (89)](https://github.com/user-attachments/assets/bbfe574f-6f8d-4bfc-802b-5f6fdbbf60bd)
+
+### deletion of the product:
+![Screenshot (91)](https://github.com/user-attachments/assets/898de4b9-375b-4abb-bbdd-9df2de41c638)
+
+![Screenshot (93)](https://github.com/user-attachments/assets/f7e4775c-9fb4-40d3-969c-be110e649610)
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
